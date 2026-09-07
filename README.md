@@ -97,9 +97,16 @@ Ce n’est pas un remplacement du client Plex officiel pour le cinéma. C’est 
 
 ## Prérequis
 
+Television sous Android TV
+Au moins 1 Serveur plex avec une catégorie "Photos/videos" 
+Avoir envie de partager ses plus belles photos avec ses amis
+---
+
+## Installation
+
 Possibilité 1 — transfert de l’APK sur la TV
 
-•	Télécharger l’APK (Releases, quand un binaire est publié, ou votre propre build).
+•	Télécharger l’APK (present dans releases).
 •	Transférer l’APK sur la TV.
 •	Installer depuis le gestionnaire de fichiers.
 •	Accepter l’installation d’une appli inconnue.
@@ -113,14 +120,6 @@ Possibilité 2 — ADB (ADB doit être installé sur l'ordinateur)
 • adb install nomfichier.apk
 • Attendre que l'icone de Plex-Pix apparaisse dans le launcher0
 
----
-
-## Installation
-
-- Télécharger l’APK (présent dans [Releases](https://github.com/Kahenis/Plex-Pix-Free/releases)).
-- Transférer l’APK sur la TV.
-- Lancer l’installation depuis le gestionnaire de fichiers de la TV.
-- Accepter l’installation d’une appli non signée.
 
 
 ## Statut du projet
