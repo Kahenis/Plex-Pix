@@ -106,20 +106,19 @@ Avoir envie de partager ses plus belles photos avec ses amis
 
 Possibilité 1 — transfert de l’APK sur la TV
 
-•	Télécharger l’APK (present dans releases).
-•	Transférer l’APK sur la TV.
-•	Installer depuis le gestionnaire de fichiers.
-•	Accepter l’installation d’une appli inconnue.
+- Télécharger l’APK (present dans releases)
+- Transférer l’APK sur la TV
+- Installer depuis le gestionnaire de fichiers
+-	Accepter l’installation d’une appli inconnue
 
 Possibilité 2 — ADB (ADB doit être installé sur l'ordinateur)
 
-•	Dans les réglages TV passer en Mode développeur (5 appuis sur le numéro de build) + activer le débogage USB
-• Dans les réglages réseau de la TV, verifier l'adresse IP. 
-• Copier l'APK dans le dossier ADB (plus rapide)
-•	adb connect IP_DE_LA_TV
-• adb install nomfichier.apk
-• Attendre que l'icone de Plex-Pix apparaisse dans le launcher0
-
+- Dans les réglages TV passer en Mode développeur (5 appuis sur le numéro de build) + activer le débogage USB
+- Dans les réglages réseau de la TV, verifier l'adresse IP
+- Copier l'APK dans le dossier ADB (plus rapide)
+-	adb connect IP_DE_LA_TV
+- adb install nomfichier.apk
+- Attendre que l'icone de Plex-Pix apparaisse dans le launcher
 
 
 ## Statut du projet
