@@ -97,10 +97,21 @@ Ce n’est pas un remplacement du client Plex officiel pour le cinéma. C’est 
 
 ## Prérequis
 
-- Un **Plex Media Server** avec au moins une bibliothèque Photos et/ou Home Videos.
-- Un compte Plex (le même que celui qui possède ou a accès au serveur).
-- Un appareil **Android TV** / Google TV (ou émulateur) capable d’installer l’APK.
-- Idéalement le téléviseur et le serveur sur le **même réseau local**.
+Possibilité 1 — transfert de l’APK sur la TV
+
+•	Télécharger l’APK (Releases, quand un binaire est publié, ou votre propre build).
+•	Transférer l’APK sur la TV.
+•	Installer depuis le gestionnaire de fichiers.
+•	Accepter l’installation d’une appli inconnue.
+
+Possibilité 2 — ADB (ADB doit être installé sur l'ordinateur)
+
+•	Dans les réglages TV passer en Mode développeur (5 appuis sur le numéro de build) + activer le débogage USB
+• Dans les réglages réseau de la TV, verifier l'adresse IP. 
+• Copier l'APK dans le dossier ADB (plus rapide)
+•	adb connect IP_DE_LA_TV
+• adb install nomfichier.apk
+• Attendre que l'icone de Plex-Pix apparaisse dans le launcher0
 
 ---
 
@@ -114,14 +125,15 @@ Ce n’est pas un remplacement du client Plex officiel pour le cinéma. C’est 
 
 ## Statut du projet
 
-Travail personnel en cours. Attendez-vous à des changements d’API UI, à des limites (formats, albums très volumineux, transcodage) et à l’absence de support officiel.
-
-Contributions, retours et issues sont les bienvenus tant qu’ils restent dans l’esprit : client TV photos/vidéos, **API publiques uniquement**, pas d’usurpation de marque Plex.
+Développement en cours. 
+L'application est fonctionnelle et contient 80 % des fonctions totales
+Quelques bugs mineurs sont en cours de suppression.
+Retours et issues sont les bienvenus tant qu’ils restent dans l’esprit : **API publiques uniquement**, pas d’usurpation de marque Plex ni de fonctions non autorisées.
 
 ---
 
 ## Licence et mentions
 
-Le code de ce dépôt sera publié sous la licence indiquée dans le fichier `LICENSE` (si présent).
+Le code de ce dépôt sera publié sous la licence indiquée dans le fichier `LICENSE` lorsque la version passera en version final 2.0.
 
 Plex® est une marque de Plex, Inc. Plex-Pix n’est pas un produit Plex.
