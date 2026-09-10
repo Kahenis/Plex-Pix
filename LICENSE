@@ -1,0 +1,80 @@
+LICENCE D'UTILISATION — PLEX-PIX
+Tous droits réservés.
+
+Copyright (c) 2026 Kahenis. Tous droits réservés.
+
+
+ARTICLE 1 — OBJET
+La présente licence régit l'utilisation de l'application Plex-Pix, de son code source, de ses binaires (y compris les fichiers APK) et de toute documentation associée (ci-après le « Logiciel »).
+
+ARTICLE 2 — DROIT D'UTILISATION GRATUIT
+Sous réserve du respect intégral de la présente licence, l'auteur (ci-après « l'Auteur ») concède à l'utilisateur un droit personnel, non exclusif, non transférable, non sublicençable et gratuit :
+- d'installer le Logiciel tel que publié officiellement par l'Auteur ;
+- de l'utiliser à des fins personnelles.
+
+Aucun frais de licence n'est dû pour cet usage.
+
+ARTICLE 3 — INTERDICTIONS
+Sauf autorisation écrite, préalable et expresse de l'Auteur, il est strictement interdit de :
+a) copier, reproduire, extraire ou redistribuer le code source du Logiciel, en tout ou partie ;
+b) modifier, adapter, traduire, décompiler, désassembler, reverse-engineer ou autrement transformer le Logiciel ou son code source ;
+c) créer des œuvres dérivées à partir du Logiciel ;
+d) publier, diffuser, mettre en ligne, distribuer ou communiquer au public une version modifiée, dérivée, recompilée ou retravaillée du Logiciel, sous quelque forme et sur quelque support que ce soit ;
+e) retirer, altérer ou masquer les mentions de copyright, de marque ou de licence.
+
+ARTICLE 4 — FICHIERS OFFICIELS
+Seuls les binaires (APK) et documents publiés par l'Auteur sur le dépôt GitHub officiel Kahenis/Plex-Pix constituent la version autorisée du Logiciel. Toute republication non autorisée est prohibée.
+
+ARTICLE 5 — PROPRIÉTÉ
+Le Logiciel demeure la propriété exclusive de l'Auteur. La présente licence n'opère aucun transfert de propriété, de brevet, de marque ou de droit d'auteur. Les marques « Plex » et associées restent la propriété de Plex, Inc. Plex-Pix n'est pas un produit Plex.
+
+ARTICLE 6 — ABSENCE DE GARANTIE
+LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, SANS LIMITATION, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. L'UTILISATION DU LOGICIEL S'EFFECTUE AUX RISQUES ET PÉRILS DE L'UTILISATEUR.
+
+ARTICLE 7 — RESPONSABILITÉ
+EN AUCUN CAS L'AUTEUR NE SAURAIT ÊTRE TENU RESPONSABLE DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE, SPÉCIAL OU CONSÉCUTIF RÉSULTANT DE L'UTILISATION OU DE L'IMPOSSIBILITÉ D'UTILISER LE LOGICIEL.
+
+ARTICLE 8 — RÉSILIATION
+Tout manquement aux présentes entraîne de plein droit la résiliation de la licence. L'utilisateur doit alors cesser toute utilisation du Logiciel et détruire les copies en sa possession.
+
+ARTICLE 9 — AUTORISATION SPÉCIFIQUE
+Toute exception aux articles 3 et 4 nécessite une autorisation écrite spécifique de l'Auteur.
+
+ARTICLE 10 — DISPOSITIONS GÉNÉRALES
+Si une clause est déclarée nulle, les autres demeurent en vigueur. Le silence de l'Auteur ne vaut pas renonciation.
+
+
+================================================================================
+PLEX-PIX — PROPRIETARY SOFTWARE LICENSE
+All rights reserved.
+
+Copyright (c) 2026 Kahenis. All rights reserved.
+
+1. GRANT OF USE
+Subject to this license, the author grants you a personal, non-exclusive, non-transferable, non-sublicensable, royalty-free right to install and use the official Plex-Pix application for personal purposes. No license fee is charged for such use.
+
+2. RESTRICTIONS
+Except with the author's prior, express, written permission, you may not:
+(a) copy, reproduce, extract, or redistribute the Software's source code, in whole or in part;
+(b) modify, adapt, translate, decompile, disassemble, reverse engineer, or otherwise transform the Software or its source code;
+(c) create derivative works of the Software;
+(d) publish, distribute, make available, or communicate to the public any modified, derived, recompiled, or altered version of the Software, in any form or on any medium;
+(e) remove or alter copyright, trademark, or license notices.
+
+3. OFFICIAL BUILDS
+Only binaries (APK files) and materials published by the author on the official GitHub repository Kahenis/Plex-Pix are authorized. Unauthorized republication is prohibited.
+
+4. OWNERSHIP
+The Software remains the exclusive property of the author. This license transfers no ownership. "Plex" and related marks are property of Plex, Inc. Plex-Pix is not a Plex product.
+
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+6. LIABILITY
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE.
+
+7. TERMINATION
+Any breach automatically terminates this license. You must then stop using the Software and destroy all copies.
+
+8. SPECIFIC AUTHORIZATION
+Any exception to the restrictions above requires a specific written authorization from the author.
