@@ -132,6 +132,8 @@ Retours et issues sont les bienvenus tant qu’ils restent dans l’esprit : **A
 
 ## Licence et mentions
 
-Le code de ce dépôt sera publié sous la licence indiquée dans le fichier `LICENSE` lorsque la version passera en version final 2.0.
+Plex-Pix est **gratuit à utiliser**.
+
+Le code source et les binaires sont protégés par le droit d’auteur. Sauf **autorisation écrite spécifique** de l’auteur : **modification du code interdite**, **publication d’une version modifiée interdite**. Le détail figure dans le fichier [`LICENSE`](LICENSE).
 
 Plex® est une marque de Plex, Inc. Plex-Pix n’est pas un produit Plex.
