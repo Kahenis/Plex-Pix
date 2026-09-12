@@ -60,10 +60,23 @@ Plex propose d’excellents clients pour les films, séries et musique. Il n’e
 
 ## Installation
 
+Possibilité 1 : Directement dans la TV
 - Télécharger l’APK (présent dans [Releases](https://github.com/Kahenis/Plex-Pix/releases))
 - Transférer l’APK sur la TV
 - Lancer l’installation depuis le gestionnaire de fichiers de la TV
-- Accepter l’installation d’une appli non signée
+- Si nécessaire, accepter l’installation d’une appli non signée
+- Enjoy
+
+Possibilité 2 : Avec ADB
+- Installer ADB dans le PC ou  le smartphone 
+- Télécharger l’APK (présent dans [Releases](https://github.com/Kahenis/Plex-Pix/releases))
+- Transférer l’APK dans le dossier ADB
+- Sur la TV, activer le mode Developpeur
+- Vérifier sur la TV l'adresse IP de celle ci
+- Lancer un "ADB Connect adresseIP" (remplacer "AdresseIP" par l'IP de votre TV
+- Lancer un "ADB Install nomapp.apk"
+- Attendez l'apparition de l'icone de plex-pix sur la TV
+- Enjoy
 
 ---
 
