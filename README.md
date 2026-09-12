@@ -4,9 +4,11 @@
 
 Ce dépôt est le **canal de publication officiel**. Seuls les binaires (APK) et la documentation sont distribués ici. **Le code source n’est pas publié.**
 
-Version actuelle : **1.3.10**
+Version actuelle : **1.3.13** (binaire obfusqué R8)
 
-Téléchargement : [Plex-Pix-1.3.10.apk](https://github.com/Kahenis/Plex-Pix/releases/download/v1.3.10/Plex-Pix-1.3.10.apk)
+Un extrait du **source obfusqué** (décompilé, non original) est dans [`src/`](src/).
+
+Téléchargement : [Plex-Pix-1.3.13.apk](https://github.com/Kahenis/Plex-Pix/releases/download/v1.3.13/Plex-Pix-1.3.13.apk)
 
 ---
 
